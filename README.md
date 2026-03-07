@@ -1,2 +1,2 @@
-# visionyon-iptv-docs
+# qview-player-docs
 
